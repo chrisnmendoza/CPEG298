@@ -1,2 +1,2 @@
 The "finalProject" file contains code that reads RGB values from the Grove I2C sensor and outputs the dominant value (Either R, G, or B) to the adafruit.io database.
-The esp setup, lines 27-42 was provided by the professor.
+The esp setup, lines 27-42 and lines 98-118 was provided by the professor.
